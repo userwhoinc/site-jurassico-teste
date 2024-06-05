@@ -2,7 +2,7 @@
  
 @font-face {
     font-family: 'antiga';
-    src: url(../site-jurassico-teste/fontes/antiga.ttf);
+    src: url(./fontes/antiga.ttf);
 }
 * {
     padding: 0%;
