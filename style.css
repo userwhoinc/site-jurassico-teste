@@ -30,19 +30,21 @@ header > h1 {
 }
 nav {
     min-width: auto;
-    padding: 5px;
-    text-align: center;
+    padding: 10px;
+    
     margin: auto;
 }
 
 nav > a   { 
     margin: auto;
-    min-width: 20px;
+    min-width: none;
     font-size: 20px;
-    padding: 40px;
+    padding: 11px 30px;
     font-family: 'antiga', Arial, Helvetica, sans-serif;
     color: white;
-    text-decoration: none;     border-radius: 10px;
+    text-decoration: none;
+    border: 2px;   
+    border-radius: 10px;
     transition: 0.2s;   
     }
 nav > a:hover {
