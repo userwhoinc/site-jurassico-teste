@@ -79,6 +79,7 @@ h3 {
     margin: auto;
     padding: 25px;
     min-width: none;
+    max-width: 790px;
     font-size: 17px;
     font-weight: 600;
 }
