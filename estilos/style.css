@@ -2,7 +2,7 @@
  
 @font-face {
     font-family: 'antiga';
-    src: url(./fontes/antiga.ttf);
+    src: url(../fontes/antiga.ttf);
 }
 * {
     padding: 0%;
@@ -28,16 +28,12 @@ header > h1 {
     color: rgba(255, 255, 255, 0.973);
 }
 nav {
-    min-width: auto;
     padding: 10px;
-    
-    margin: auto;
+    text-align: center;
 }
 
-nav > a   { 
-    margin: auto;
-    min-width: none;
-    font-size: 20px;
+nav > a {
+    font-size: 25px;
     padding: 11px;
     font-family: 'antiga', Arial, Helvetica, sans-serif;
     color: white;
